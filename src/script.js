@@ -7,3 +7,5 @@ function messWithYou() {
       while(1)location.reload(1)
     }, 10000)
 }
+
+function messWithYou();
