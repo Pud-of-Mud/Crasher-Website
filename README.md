@@ -21,8 +21,7 @@ However, it is still possible to do so.
 Though the use of third-party hosting applications, you can fork this repository and deploy it to a number of sites. 
 
 #### Replit Third-party Hosting
-:Button label=Deploy on Replit, url=https://replit.com
-1. Press the button above to be redirected to Replit.
+1. Go to the following link for Replit: [replit.com](https://replit.com/~)
 2. Click on the ```+ Create Repl``` button
 3. Select ```Import from Github``` 
 4. Paste the following URL into the GitHub URL space: ```https://github.com/Pud-of-Mud/Crasher-Website/```
