@@ -1,8 +1,8 @@
-html {
+html, body {
   height: 100%;
   width: 100%;
-  background-color: radial-gradient(black, #242424);
   text-align: center;
+  background-color: black;
 }
 h1 {
   font-size: 50px;
