@@ -14,7 +14,7 @@ If this website is loaded onto a Chromebook or Chromeium-based OS, it crashes th
 ### Locally Hosting
 It is not recommended to locally host this repository, as when you visit the webpage it crashes your browser.
 However, it is still possible to do so. 
-1. Download the [latest release ~Missing~]() or the development code directaly from the [GitHub repository](https://github.com/Pud-of-Mud/Crasher-Website.git).
+1. Download the [latest release](https://github.com/Pud-of-Mud/Crasher-Website/releases) or the development code directaly from the [GitHub repository](https://github.com/Pud-of-Mud/Crasher-Website.git).
 2. To start crashing, run ```index.html``` located in the ```main``` folder of the repository. 
 
 ### Third-party Hosting
