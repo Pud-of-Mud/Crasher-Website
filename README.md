@@ -28,7 +28,7 @@ Though the use of third-party hosting applications, you can fork this repository
 5. When its finished importing, hit ```run```
 
 ## License
-This project is protected unter the [GNU General Public License v3.0](https://github.com/Pud-of-Mud/Crasher-Website/blob/main/LICENSE)
+This project is protected unter the [GNU General Public License v3.0](https://github.com/Pud-of-Mud/Crasher-Website/blob/main/LICENSE) <br>
 To learn more about this license, you can visit [gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Credits
